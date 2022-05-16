@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "hola ",
+      "descripcion": "Mantén la temperatura de tu portátil en óptimas condiciones con esta base refrigerante con luz LED en su ventilador. Llévala a donde prefieras",
+      "cantidad": 10,
+      "precio": 20,
+      "url": "https://m.media-amazon.com/images/I/81tXi4E4QRS._AC_SY355_.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "hola",
+      "descripcion": "Receptor USB Bluetooth.- Podrás reproducir tu música a través del receptor inálambrico USB Bluetooth conectándolo a cualquier sistema de audio ",
+      "cantidad": 8,
+      "precio": 10.00,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_723861-MPE31254106356_062019-O.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "TINTAS IMPRESORA ",
+      "descripcion": "Originales, nuevas, selladas botellas de tinta para multifunciones e impresoras de tinta continua",
+      "cantidad": 20,
+      "precio": 5.00,
+      "url": "https://www.hp.com/lamerica_nsc_cnt_amer/es/images/M_ksp_module_no_bg_tcm237_2641318_tcm237_2641905_tcm237-2641318.png"
+    }
+    
+  ]

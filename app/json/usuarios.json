@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Juanito ",
+      "lastname": "Pérez",
+      "username": "juanito123",
+      "email": "juantioperez@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Andrés",
+      "lastname": "Cando",
+      "username": "andres912",
+      "email": "andrescando@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Josué",
+      "lastname": "Román",
+      "username": "josue123",
+      "email": "josueroman@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Elias",
+      "lastname": "Rodriguez",
+      "username": "elias124",
+      "email": "eliasrodriguez@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Salomé ",
+      "lastname": "Arévalo",
+      "username": "salomearevalo123",
+      "email": "salomearevalo@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Melany ",
+      "lastname": "Delgado",
+      "username": "melany127",
+      "email": "melanydelgado@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Steven ",
+      "lastname": "Salazar",
+      "username": "stev923",
+      "email": "stevsalazar@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Jordy ",
+      "lastname": "Moreno",
+      "username": "jordy8172",
+      "email": "jordymoreno@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Angela ",
+      "lastname": "Apolo",
+      "username": "agelaapolo",
+      "email": "agelaapolo@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Jeremy",
+      "lastname": "Mesa",
+      "username": "jeremy273",
+      "email": "jeremymesa@gmail.com"
+    }
+  ]
